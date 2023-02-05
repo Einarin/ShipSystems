@@ -1,0 +1,7 @@
+[package]
+name = "ship_systems"
+version = "0.1.0"
+authors = ["Johnny Dickinson <kc0itv@gmail.com>"]
+
+[dependencies]
+bitflags = "*"
